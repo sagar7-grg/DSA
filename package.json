@@ -1,0 +1,8 @@
+{
+  "name": "DSA",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com-personal:sagar7-grg/DSA.git",
+  "author": "sagar7-grg <grgsagar47@gmail.com>",
+  "license": "MIT"
+}
